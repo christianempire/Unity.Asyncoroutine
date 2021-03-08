@@ -1,0 +1,6 @@
+{
+    "name": "com.christianempire.asyncoroutine",
+    "version": "1.0.0",
+    "displayName": "Asyncoroutine",
+    "description": "Enables the use of async/await statements for Unity methods."
+}
