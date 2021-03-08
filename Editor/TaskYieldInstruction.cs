@@ -6,7 +6,7 @@ using UnityEngine;
 
 // It refers to this link : https://github.com/Microsoft/xbox-live-unity-plugin/blob/master/Assets/Xbox%20Live/Scripts/UnityTaskExtensions.cs
 
-namespace Asyncoroutine
+namespace christianempire.Asyncoroutine
 {
     public class TaskYieldInstruction : CustomYieldInstruction
     {

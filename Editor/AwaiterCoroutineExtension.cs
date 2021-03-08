@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using UnityEngine;
 
-namespace Asyncoroutine
+namespace christianempire.Asyncoroutine
 {
     public static class AwaiterCoroutineExtension
     {

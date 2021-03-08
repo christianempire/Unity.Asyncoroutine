@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Threading;
 using UnityEngine;
 
-namespace Asyncoroutine
+namespace christianempire.Asyncoroutine
 {
     public class AwaiterCoroutineer : MonoBehaviour
     {

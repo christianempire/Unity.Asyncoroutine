@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Asyncoroutine
+namespace christianempire.Asyncoroutine
 {
     public partial class AwaiterCoroutine<TInstruction>
     {

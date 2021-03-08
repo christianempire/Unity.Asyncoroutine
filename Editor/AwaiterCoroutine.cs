@@ -4,7 +4,7 @@ using System.Threading;
 using System.Runtime.CompilerServices;
 using UnityEngine;
 
-namespace Asyncoroutine
+namespace christianempire.Asyncoroutine
 {
     public partial class AwaiterCoroutine<TInstruction> : INotifyCompletion
     {
